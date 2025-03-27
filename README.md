@@ -1,3 +1,4 @@
 # MLEX-Practicas
-
-Repositorio para la realización de las prácticas de Machine Learning Explicable
+Proyecto realizado por Esteban Becerra, Jose María Belmonte y Salvador De Haro.
+Repositorio Git con el proyecto: https://github.com/estebanbecerra/MLEX-Practicas.git
+La realización de la práctica fue llevada a cabo empleando Colab y usando Git para control de versiones.
